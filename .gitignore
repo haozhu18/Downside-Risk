@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.ipynb_checkpoints/
+Reference/
+*.parquet
+*.csv
+qpm*.py
+utils.py
+Playground/Downside Risk.ipynb
+Results/Downside Risk-CAPM Strategy Presentation.pdf
